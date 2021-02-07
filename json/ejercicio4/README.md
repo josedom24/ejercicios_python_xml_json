@@ -1,4 +1,4 @@
-# Ejercicio: Metallica"
+# Ejercicio: Metallica
 
 Utilizando el fichero [metallica.json](metallica.json) de de los discos del grupo Metallica, crea distintas funciones en python, utilizando la librería json, que realicen las siguientes funciones, crea un menú que muestre las distintas opciones:
 
