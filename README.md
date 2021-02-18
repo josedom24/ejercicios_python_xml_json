@@ -12,3 +12,4 @@ Ejercicios resueltos XML y JSON con python
 ## XML
 
 * [Ejercicio 1: Provincias y poblaciones](xml/ejercicio1)
+* [Ejercicio 2: Usuarios de la moodle](xml/ejercicio2)
