@@ -13,3 +13,4 @@ Ejercicios resueltos XML y JSON con python
 
 * [Ejercicio 1: Provincias y poblaciones](xml/ejercicio1)
 * [Ejercicio 2: Usuarios de la moodle](xml/ejercicio2)
+* [Ejercicio 3: Información meteorológica de Sevilla](xml/ejercicio3)
