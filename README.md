@@ -11,3 +11,4 @@ Ejercicios resueltos XML y JSON con python
 
 ## XML
 
+* [Ejercicio 1: Provincias y poblaciones](xml/ejercicio1)
